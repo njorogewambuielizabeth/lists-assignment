@@ -23,26 +23,22 @@ fun main() {
 
     //quiz 4
     val peopleList = mutableListOf<Person>()
-//    addPeopleToList(peopleList)
+                  println (peopleList)
 
     //quiz 5
     val carList = listOf(
-        Car("ABC123", 5000),
-        Car("DEF456", 10000),
-        Car("GHI789", 7500)
+        Car("KAA123E", 5000.0),
+        Car("KDE456F", 10000.3),
+        Car("KDG789H", 7500.5)
     )
-    val averageMileage = calculateAverageMileage(carList)
-
-
-
-
-
-
-
-
-
+    val averageMileage = getAverageMileage(carList)
+    println(averageMileage)
 
 }
+
+
+
+
 //1. Given a list of 10 strings, write a function that returns a list of the strings
 //at even indices i.e index 2,4,6 etc
 fun evenIndexes(words:List<String>):List<String>{
@@ -68,18 +64,34 @@ data class Person(var name: String, var age: Int, var height: Double, var weight
 
 
 //4. Given a list similar to the one above, write a function in which you will
-//create 2 more people objects and add them to the list at one go.
-data class Persons(val name: String, val age: Int)
+////create 2 more people objects and add them to the list at one go.
+
+data class Persons(val name: String, val age: Int, val height: Double, val weight: Double)
+
+fun addTwoMorePeople(people: MutableList<Person>) {
+    val newPerson1 = Person("Alice", 35, 1.68, 65.0)
+    val newPerson2 = Person("Bob", 42, 1.85, 80.0)
+    people.addAll(listOf(newPerson1, newPerson2))
+}
+
+
+
 
 
 
 //quiz 5Write a function that takes in a list of Car objects each with a
 //registration and mileage attribute and returns the average mileage of
 //all the vehicles in the list.
-data class Car(val registration: String, val mileage: Int)
+data class Car(val registration: String, val mileage: Double)
 
-fun calculateAverageMileage(carList: List<Car>): Double {
-    val totalMileage = carList.sumBy { it.mileage }
-    return totalMileage.toDouble()
+fun getAverageMileage(cars: List<Car>): Double {
+    var totalMileage = 0.0
+    for (car in cars) {
+        totalMileage += car.mileage
+    }
+    return totalMileage
 }
+
+
+
 
