@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="675dc176-4dcb-4022-9ea0-518c111a043d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Arrays/Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variables/Variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../area/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../area/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../area/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../area/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../area/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../area/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../area/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../area/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../area/area.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../area/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assesment1-correction/assesment1-correction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl-assignment/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl-assignment/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl-assignment/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl-assignment/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl-assignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl-assignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl-assignment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl-assignment/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl-assignment/flowControl-assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl/flowControl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl/out/production/flowControl/META-INF/flowControl.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl/out/production/flowControl/MainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritanceassignment/inheritanceassignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lists-assignment/META-INF/lists-assignment.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lists-assignment/MainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists/lists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists/out/production/lists/META-INF/lists.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists/out/production/lists/MainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myRevision/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myRevision/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myRevision/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myRevision/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myRevision/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myRevision/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myRevision/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myRevision/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myRevision/myRevision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mypractise/mypractise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-assignment/oop-assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personalwork/personalwork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../random-quizes/random-quizes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../strings/strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sundaywork/sundaywork.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2NhPG7Ii4F5oY4FTNJBAtxn4TiB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="675dc176-4dcb-4022-9ea0-518c111a043d" name="Changes" comment="" />
+      <created>1680113243762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680113243762</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
